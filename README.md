@@ -1,1 +1,1 @@
-# SocialMedia_Full_Project
+# Full-Stack-MERN-Social-Media-App
